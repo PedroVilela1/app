@@ -1,0 +1,32 @@
+ion-content {
+    --padding-top: 40%;
+    --padding-start: 10%;
+    --padding-end: 10%;
+    --background: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-simple-cartoon-farm-advertisement-image_171563.jpg') 0 0/100% 100% no-repeat;
+    
+}
+
+ion-col {
+    vertical-align: center;
+    text-align: center;
+    margin-block-end: 50px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+.input-group {
+    background: rgb(8, 8, 8);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 15px;
+    opacity: 0.8;
+}
+ 
+.errors {
+    font-size: small;
+    color: #fff;
+    background: var(--ion-color-danger);
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
